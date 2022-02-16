@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abhishek Vaid</title>
+    <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/</link>
+    <description>Recent content in Projects on Abhishek Vaid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Machine Learning Application</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-7/</link>
+      <pubDate>Sat, 27 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-7/</guid>
+      <description>In this project I made an Automated Machine Learning tool. This tool can perform Regression and Classification Machine Learning and give output in a CSV file within a matter of 2 Minutes.
+Link to Website
+Link to GitHub Repository   Automated Machine Learning Application     Video Representation Of my Project</description>
+    </item>
+    
+    <item>
+      <title>Project-1: COVID-19 data building and visualization</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-1/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-1/</guid>
+      <description>CORONAVIRUS HAS CLAIMED PRECIOUS LIVES THOUGHOUT THE WORLD. PEOPLE ACROSS THE GLOBE ARE DOING COUNTLESS HOURS OF RESEARCH TO FIND A SOLUTION. MY WORK MEASURES THE AMOUNT OF WORKS DONE BY TITLES PUBLISHED IN JOURNALS ACROSS THE GLOBE AND COMPARES EACH JOURNAL WITH THE AMOUNTS OF TITLES PASSAGES THEY HAVE PRODUCED ON THE CORONA VIRUS WHICH MIGHT BE CLEAR MEASURE OF THERE PARTICIPATION IN CREATING AWARENESS AND SAVING LIVES IN THE PANDEMIC SITUATION.</description>
+    </item>
+    
+    <item>
+      <title>Complete Data Visualization Project</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-8/</link>
+      <pubDate>Tue, 23 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-8/</guid>
+      <description>In this project I covered complete Data Visualization using Matplotlib, Seaborn, ggplot2 and Plotly. Its covers all basic to advance including Animated Visualizations. The objective behind making this project was to educate the Data Science Community. The complete project is made using Python Language.
+Link to Kaggle Notebook
+Link to GitHub Repository   3D Visualizations   </description>
+    </item>
+    
+    <item>
+      <title>Project 2: ARIMA and SARIMA Forecasting</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-2/</link>
+      <pubDate>Mon, 08 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-2/</guid>
+      <description>In this project I have taken a Champaign sales dataset and forecasted its upcoming sales trend. To do so I have first checked whether my data is stationery by performing Dickey Fuller test and used the obtained p-value to determine so. After that I have performed Data seasonal differencing to make my data stationery. Then I have plotted my data using statsmodel&amp;rsquo;s tsaplot for visualizing Autocorrelation(ACF) and Partial Autocorrelation(PACF) to determine values of auto regressive lags(P) and the value of moving average(Q).</description>
+    </item>
+    
+    <item>
+      <title>Project 3: House Pricing Regression</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-3/</link>
+      <pubDate>Sun, 07 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-3/</guid>
+      <description>In this project I took house pricing regression train and test datasets. First I did feature engineering on these datasets using heatmaps to visualize null values and replace them with their column mean if numeric and mode if character data. Then I did data encoding by using dummy variables and categorical onehot encoding on my character columns to get numeric values for making ML model. Then I build my model using XGBOOST regressor and did Hyperparameter optimization on my model using RandomSearchCV.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Titanic: Machine Learning from Disaster</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-4/</link>
+      <pubDate>Fri, 05 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-4/</guid>
+      <description>In this project I took Titanic: Machine Learning from Disaster train and test datasets. First I did feature engineering on these datasets using heatmaps to visualize null values and replace them with their column mean if numeric and mode if character data. Then I did data encoding by using dummy variables and categorical onehot encoding on my character columns to get numeric values for making ML model. Then I build my model using SVM classifier.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Digit Recognizer</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-5/</link>
+      <pubDate>Tue, 02 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-5/</guid>
+      <description>In this project I took Kaggle Digit Recognizer MNIST train and test datasets. I used a 6 layer convolutional 2d network to train a Digit image recognition model. I used a relu and softmax activation functions and for loss I used categorical crossentropy.
+Link to GitHub Repository Link to my Kaggle Notebook   Visual Representation of digit image processing by convolutional neural networks     Visual Representation of digit image breakdown by convolutional neural networks   </description>
+    </item>
+    
+    <item>
+      <title>Project 6: Dog-or-Cat-image-recognition-ANN-project</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-6/</link>
+      <pubDate>Sat, 30 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_3/post/project-6/</guid>
+      <description>In this project I took Kaggle Dog-or-Cat-image-recognition train and test datasets. I used a 6 layer convolutional 2d network to train a Digit image recognition model. I used a relu and softmax activation functions and for loss I used categorical crossentropy.
+Link to GitHub Repository Link to my Kaggle Notebook   Visual Representation of cat dog image recognition by convolutional neural networks     Visual Representation of epochs run   </description>
+    </item>
+    
+  </channel>
+</rss>
